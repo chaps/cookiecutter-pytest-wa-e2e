@@ -1,0 +1,3 @@
+wa_e2e:
+  whatsapp_bot_number: {{cookiecutter.whatsapp_botnumber}}@s.whatsapp.net
+
