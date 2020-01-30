@@ -1,5 +1,6 @@
 {
     "project_name": "project_name",
-    "data_file_yaml_path": "some/path/file.yml",
-    "test_file_name": "test_file_name"
+    "yaml_file_name": "data_file",
+    "test_file_name": "test_file_name",
+    "whatsapp_botnumber": "5219876543210"
 }

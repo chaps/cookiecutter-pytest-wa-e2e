@@ -1,6 +1,5 @@
 
 __pycache__
 *.pyc
-*.yml
 *.html
-
+{{cookiecutter.yaml_file_name}}.yml

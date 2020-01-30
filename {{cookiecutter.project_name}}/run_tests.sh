@@ -1,4 +1,4 @@
 
-pytest -s -v --data-file={{cookiecutter.data_file_yaml_path}} 
+pytest -s -v --data-file={{cookiecutter.yaml_file_name}}.yml src 
 
 
