@@ -1,0 +1,4 @@
+
+py-wa-adb
+pytest-wa-e2e-plugin
+
